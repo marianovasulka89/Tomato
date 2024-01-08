@@ -1,0 +1,3 @@
+,Unicidad,Locus,Coef_todos_OR,PVal_todos_OR,Coef_parentales_OR,PVal_parentales_OR,spotID,ProteinFunctionDescription
+0,232,Solyc05g012070,-0.101273936708367,0.795441665479531,-0.898645105261295,0.01488862200558,JX337,UDP-glucose:protein transglucosylase-like protein
+2,709,Solyc03g006860,-0.018349396085439,0.9626294041814,-0.828078671210825,0.041794680456045,JX015,Fructokinase
